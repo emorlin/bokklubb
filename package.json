@@ -1,6 +1,6 @@
 {
-  "name": "Bokklubben",
-  "version": "2.0",
+  "name": "bokklubben",
+  "version": "",
   "description": "Frontend buildscript for Bokklubben",
   "repository": {
     "type": "git",
